@@ -7,7 +7,7 @@ function addValue(myObj, myValue){
 //Assign variable for myObj
 var myObj = {};
 
-
+//Make the argument value
 addValue(myObj, true);
 
 console.log(myObj['myValue']);
